@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Resources/FC/Missions/1-Common Sense/Common Sense.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Start.unity
+  isLoaded: 0
+  isActive: 0
